@@ -1,5 +1,9 @@
 output_dir: "docs"
+book_filename: "Livro_Estat_Aplic"
 delete_merged_file: true
 language:
+  label:
+    fig: "Figura "
+    tab: "Tabela "
   ui:
-    chapter_name: "Chapter "
+    chapter_name: "Capítulo "
